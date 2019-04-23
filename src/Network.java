@@ -47,7 +47,7 @@ public class Network implements Serializable {
             prev = layers.get(i);
         }
 
-        //set learningRate
+        ///set learningRate
         this.learningRate = learningRate;
     }
 
